@@ -1,5 +1,21 @@
 # NetAssistant
-net assist tool under linux
+A network debugging assistant based on Qt GUI.
 
-This tool is fork from another repo. 
-I compiled it under qt6. 
+## Features:
+1. UDP；
+2. TCP client；
+3. TCP server；
+4. File transfer;
+5. Group chat mode；
+6. Multi-language;
+
+## Getting Started
+This project is built on Qt5. 
+
+### Build
+```
+git clone https://github.com/busyluo/NetAssistant.git
+cd NetAssistant
+qmake
+make
+```
