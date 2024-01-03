@@ -1,5 +1,5 @@
 # NetAssistant
-A network debugging assistant based on Qt GUI.
+A network debugging assistant based on Qt GUI. I fork this from another repo and compile it under Qt6. As the original porject is compiled under Qt5, a little change is needed. 
 
 ## Features:
 1. UDP；
@@ -9,13 +9,6 @@ A network debugging assistant based on Qt GUI.
 5. Group chat mode；
 6. Multi-language;
 
-## Getting Started
-This project is built on Qt5. 
 
-### Build
-```
-git clone https://github.com/busyluo/NetAssistant.git
-cd NetAssistant
-qmake
-make
-```
+
+
